@@ -1,11 +1,3 @@
--- CREATE DATABASE
-CREATE DATABASE MSTORE ;
-
--- ACCESS THE DATABASE
-USE MSTORE ;
-
--- IMPORT CSV USING THE TABLE IMPORT WIZARD
-
 /* Q1 . Who is the senior most employee based on job title? */
 SELECT TOP 1 employee_id, first_name, last_name, title, levels
 FROM employee 
