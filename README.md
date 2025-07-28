@@ -19,7 +19,7 @@ The PDF includes:
 
 ## 🛠 Tools Used
 
-- **SQL (SQLite/SQL Server)** – Data querying
+- **SQL (MsSqL Server)** – Data querying
 - **Tableau Desktop** – Data visualization
 - **GitHub** – Project hosting and version control
 
@@ -59,7 +59,7 @@ The PDF includes:
 - **Rock** is the most listened-to genre globally
 - **Prague** is the top city in revenue generation
 - **Hugh O'Reilly** is the highest-paying customer
-- Country-wise genre and customer insights guide marketing strategies
+- Country-wise genre and customer insights reveal varied musical tastes across regions, enabling the business to personalize marketing strategies, recommend          localized playlists, and optimize inventory based on regional demand.
 
 ---
 
