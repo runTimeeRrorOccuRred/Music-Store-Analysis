@@ -6,7 +6,7 @@ This project explores a digital music store database to extract and visualize bu
 
 ## 📄 Report
 
-📌 [Download the full report (PDF)docs/music__report.pdf]
+📌 [Download the full report (PDF)](docs/music__report.pdf)
 
 The PDF includes:
 - Beginner to advanced SQL queries
