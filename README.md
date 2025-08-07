@@ -6,7 +6,7 @@ This project explores a digital music store database to extract and visualize bu
 
 ## 📄 Report
 
-📄 [Download the full report (PDF)](docs/music_report.pdf)  
+📄 [Download the full report (PDF)](docs/music__report.pdf)  
 📊 [View Tableau Dashboard (PDF)](docs/final_dashboard.pdf)  
 💾 [View SQL Queries](sql/music_store_analysis.sql)
 
